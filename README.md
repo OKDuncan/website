@@ -22,4 +22,4 @@ By creating a decentralized autonomous organizataion to fight COV19, people from
 
 🤖 | [**DAO Address**](https://mainnet.aragon.org/#/collab19/home/) - check out our DAO, and if you're a token holder, vote on the charities to support
 
-💬 | [**Community Chat**](https://t.me/joinchat/P1SFk1ia1rhqHn_P5YXdDA) - drop in and say hi, discuss charities to donate to, and get involved!
+💬 | [**Community Chat**](https://t.me/joinchat/HcTaOxhr7mt9K7mBTMxlHw) - drop in and say hi, discuss charities to donate to, and get involved!
