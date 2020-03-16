@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Collab 19
 
-You can use the [editor on GitHub](https://github.com/Collab-19/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### What
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Collab 19 is a DAO created to help fight COV19.
 
-### Markdown
+### Why is it a DAO?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+By creating a decentralized autonomous organizataion to fight COV19, people from all over the world can come together to fight COV-19. By buying tokens you're providing a pool of capital that can then be used to donate to charities that are fighting COV-19. Since the tokens are sold on an open market, you can also speculate on the amount of people who will donate. You can always cash out your tokens against the curve to redeem some of the underlying collateral, or you can hold the C19 tokens as proof of support. Token holders can vote on when the DAO redeems it's C19 tokens (half of the supply) as well as where to send funds after tokens are redeemed.  
 
-```markdown
-Syntax highlighted code block
+### How can you help?
 
-# Header 1
-## Header 2
-### Header 3
+[Buy tokens!](https://uniswap.exchange/swap/0x87d7b6CfAaeC5988FB17AbAEe4C16C3a79ceceB0)
 
-- Bulleted
-- List
+### Info
 
-1. Numbered
-2. List
+📢 | [**Announcement**](TBD) - tweetstorm on the COV19 DAO.
 
-**Bold** and _Italic_ and `Code` text
+🦄 | [**Uniswap Exchange**](https://uniswap.exchange/swap/0x87d7b6CfAaeC5988FB17AbAEe4C16C3a79ceceB0) - buy COV-19 tokens to show proof of support.
 
-[Link](url) and ![Image](src)
-```
+📊 | [**Market Stats**](https://uniswap.info/token/0x87d7b6CfAaeC5988FB17AbAEe4C16C3a79ceceB0) - a nice visualization of the COV19 token market
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+🤖 | [**DAO Address**](https://mainnet.aragon.org/#/collab19/home/) - check out our DAO, and if you're a token holder, vote on the charities to support
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Collab-19/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+💬 | [**Community Chat**](https://t.me/joinchat/P1SFk1ia1rhqHn_P5YXdDA) - drop in and say hi, discuss charities to donate to, and get involved!
