@@ -14,7 +14,7 @@ By creating a decentralized autonomous organizataion (DAO) people from all over 
 
 ### Info
 
-📢 | [**Announcement**](TBD) - tweetstorm on the COV19 DAO.
+📢 | [**(TBD) Announcement**](TBD) - tweetstorm on the COV19 DAO.
 
 🦄 | [**Uniswap Exchange**](https://uniswap.exchange/swap/0x87d7b6CfAaeC5988FB17AbAEe4C16C3a79ceceB0) - buy COV-19 tokens to show proof of support.
 
