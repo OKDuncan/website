@@ -20,6 +20,6 @@ By creating a decentralized autonomous organizataion (DAO) people from all over 
 
 📊 | [**Market Stats**](https://uniswap.info/token/0x87d7b6CfAaeC5988FB17AbAEe4C16C3a79ceceB0) - a nice visualization of the COV19 token market
 
-🤖 | [**DAO Address**](https://mainnet.aragon.org/#/collab19/home/) - check out our DAO, and if you're a token holder, vote on the charities to support
+🤖 | [**DAO Page**](https://mainnet.aragon.org/#/collab19/home/) - check out our DAO, and if you're a token holder, vote on the charities to support
 
 💬 | [**Community Chat**](https://t.me/joinchat/HcTaOxhr7mt9K7mBTMxlHw) - drop in and say hi, discuss charities to donate to, and get involved!
