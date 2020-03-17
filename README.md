@@ -6,15 +6,7 @@ Collab 19 is a DAO created to help fight COV19.
 
 ### Why is it a DAO?
 
-By creating a decentralized autonomous organizataion (DAO), people from all over the world can come together to fight COV-19. 
-
-There are 1400 C19 tokens and the Collab19 DAO has 700 of them. 
-
-Every week the DAO will cash out 100 of it's C19 tokens.
-
-You can buy these tokens on Uniswap and use them to vote on how to spend the DAO's treasury. 
-
-Since the tokens are sold on an open market you can cash them out at any time or hold them as proof of support. 
+By creating a decentralized autonomous organizataion (DAO) people from all over the world can come together to fight COV-19. There are 1400 C19 tokens and the Collab19 DAO has 700 of them. Every week the DAO will cash out 100 of it's C19 tokens. You can buy these tokens on Uniswap and use them to vote on how to spend the DAO's treasury. Since the tokens are sold on an open market you can cash them out at any time or hold them as proof of support. 
 
 ### How can you help?
 
