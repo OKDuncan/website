@@ -14,8 +14,7 @@ By creating a decentralized autonomous organizataion (DAO) people from all over 
 
 ### Info
 
-📢 | [**Twitter Announcement**](https://twitter.com/CheeseYet/status/1240126132416065537
-) - tweetstorm explaining Collab19.
+📢 | [**Twitter Announcement**](https://twitter.com/CheeseYet/status/1240126132416065537) - tweetstorm explaining Collab19.
 
 🦄 | [**Uniswap Exchange**](https://uniswap.exchange/swap/0x87d7b6CfAaeC5988FB17AbAEe4C16C3a79ceceB0) - buy C19 tokens to show proof of support.
 
